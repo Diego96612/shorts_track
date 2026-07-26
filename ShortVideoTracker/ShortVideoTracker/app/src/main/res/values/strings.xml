@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">短影音使用時間</string>
+    <string name="accessibility_service_description">用來偵測目前是否在觀看 YouTube Shorts / Instagram Reels / TikTok，藉此統計短影音使用時間。不會讀取或上傳任何文字內容。</string>
+</resources>
